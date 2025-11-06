@@ -1,10 +1,7 @@
-import Header from "./components/Header";
-import "./App.css";
+import Navbar from "./components/Navbar";
 
-export default function App() {
-  return (
-    <>
-      <Header />
-    </>
-  );
+function App() {
+  return <Navbar />;
 }
+
+export default App;
