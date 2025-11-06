@@ -14,7 +14,6 @@ function Navbar() {
           </div>
         </div>
         
-
         {/* Основное меню */}
         <ul className="nav-menu">
           <li className="nav-item"><a className="nav-link" href="#">Мячи</a></li>
