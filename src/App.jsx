@@ -1,15 +1,9 @@
-import React from "react";
-import Navbar from "./components/Navbar";
-import Section1 from "./components/Section1";
-import "./App.css";
+import { Navbar } from './ui/navbar';
 
-function App() {
+export default function App() {
   return (
-    <>
-      <Navbar />
-      <Section1 />
-    </>
+    <div className="min-h-screen bg-gray-100">
+      <Navbar />      
+    </div>
   );
 }
-
-export default App;
