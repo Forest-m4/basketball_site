@@ -11,8 +11,7 @@ export const PromoTextBlock = () => {
       </p>
       <button
         type="button"
-        className="mt-6 w-[239px] h-[63px] bg-[#EB2D66] text-white font-bold text-[16px] rounded transition-colors duration-150 hover:bg-[#F24C7E] active:bg-[#FF6B9C]"
-      >
+        className="mt-6 w-[239px] h-[63px] bg-[#EB2D66] text-white font-bold text-[16px] rounded transition-colors duration-150 hover:bg-[#F24C7E] active:bg-[#FF6B9C]">
         Смотреть каталог
       </button>
     </div>
